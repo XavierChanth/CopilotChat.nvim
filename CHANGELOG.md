@@ -1,5 +1,12 @@
 # Changelog
 
+## [4.1.0](https://github.com/CopilotC-Nvim/CopilotChat.nvim/compare/v4.0.0...v4.1.0) (2025-08-03)
+
+
+### Features
+
+* **ui:** improve keyword highlights accuracy and performance ([#1260](https://github.com/CopilotC-Nvim/CopilotChat.nvim/issues/1260)) ([0d64e26](https://github.com/CopilotC-Nvim/CopilotChat.nvim/commit/0d64e267a5aef3bd7d580a2c488bcc8b66d374a4))
+
 ## [4.0.0](https://github.com/CopilotC-Nvim/CopilotChat.nvim/compare/v3.12.2...v4.0.0) (2025-08-02)
 
 
